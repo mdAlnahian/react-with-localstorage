@@ -1,0 +1,15 @@
+.navbar{
+    background-color: black;
+    color: azure;
+    /* font-style: italic; */
+    font-weight: bold;
+    display: flex;
+    padding: 30px 0px;
+    position: sticky;
+    top: 0;
+}
+.navbar-logo{
+    padding-left: 300px;
+    font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

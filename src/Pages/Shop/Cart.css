@@ -1,0 +1,20 @@
+.cart-container{
+    /* width: 350px; */
+    border: 2px solid rgb(204, 204, 217);
+}
+.cart-image{
+    width: 100%;
+}
+.cart-btn{
+    background: black;
+    width: 100%;
+    color: white;
+    padding: 16px 0;
+    font-size: 16px;
+    cursor: pointer;
+}
+.cart-container-data{
+    margin: 0;
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
